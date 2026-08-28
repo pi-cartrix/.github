@@ -78,29 +78,132 @@ Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3, Ja
 <hr>
 
 # **Requisitos do Projeto.**
+## Requisitos Funcionais
 
-## – Requisitos Funcionais (RF).
+### RF01 – Realizar cadastros
+O sistema deve permitir que os usuários realizem o cadastro de **Veículos**.
 
-**RF01 – Realizar cadastros:** O sistema deve permitir que os usuários realizem o cadastro de **Veículos** (Armazenando dados como: marca, modelo, placa, chassi, quilometragem, status, danos).
-**RF02 – Realizar logins:** O sistema deve permitir guardar informações dos usuários e utilizá-las para realizar o login dos mesmos (Usando os dados armazenados: cnpj, senha, email).
-**RF03 – Visualizar veículos:** A página inicial deve exibir ao usuário a **lista de veículos** na frota da empresa e seus status a fim de organizar e definir quais deles precisam de revisão ou estão danificados.
-**RF04 – Registrar revisões:** O sistema deve permitir que os usuários registrem **revisões dos veículos** (Armazenando dados como: data da revisão, quilometragem, tipo de revisão, descrição, peças substituídas, valor e responsável).
-**RF05 – Consultar histórico de revisões:** O sistema deve permitir que os usuários consultem o **histórico de revisões de cada veículo** (Exibindo informações como: data, tipo de revisão, quilometragem, descrição e responsável).
-**RF06 – Atualizar dados dos veículos:** O sistema deve permitir que os usuários autorizados **alterem os dados cadastrados dos veículos** (Podendo modificar informações como: modelo, placa, quilometragem, status e danos).
-**RF07 – Registrar danos:** O sistema deve permitir que os usuários registrem **danos identificados nos veículos** (Armazenando informações como: descrição do dano, data, gravidade, localização do dano e observações).
-**RF08 – Atualizar status dos veículos:** O sistema deve permitir que os usuários **alterem o status dos veículos** (Utilizando opções como: disponível, em revisão, danificado, em manutenção e indisponível).
-**RF11 – Pesquisar veículos:** O sistema deve permitir que os usuários **pesquisem veículos cadastrados** (Utilizando informações como: placa, marca, modelo, status ou chassi).
-**RF12 – Filtrar veículos por status:** O sistema deve permitir que os usuários **filtrem a lista de veículos** de acordo com seu status (Possibilitando visualizar somente veículos disponíveis, em revisão, danificados, em manutenção ou indisponíveis).
+- Marca
+- Modelo
+- Placa
+- Chassi
+- Quilometragem
+- Status
+- Danos
 
-## – Requisitos Não Funcionais (RNF).
+### RF02 – Realizar logins
+O sistema deve permitir guardar informações dos usuários e utilizá-las para realizar o login dos mesmos.
 
-**RNF01 – Desempenho:** O sistema deve apresentar as páginas e informações solicitadas pelos usuários em um **tempo adequado**, evitando atrasos durante consultas, cadastros e atualizações.
-**RNF02 – Disponibilidade:** O sistema deve permanecer **disponível durante o horário de funcionamento da empresa**, permitindo o acesso às funcionalidades de gerenciamento da frota.
-**RNF03 – Usabilidade:** O sistema deve possuir uma **interface simples e intuitiva**, permitindo que os usuários realizem cadastros, consultas e registros de revisões sem dificuldades.
-**RNF04 – Compatibilidade:** O sistema deve ser compatível com os **principais navegadores web**, como Google Chrome, Mozilla Firefox e Microsoft Edge.
-**RNF05 – Responsividade:** O sistema deve possuir uma **interface responsiva**, adaptando-se adequadamente a diferentes tamanhos de tela, como computadores, tablets e celulares.
-**RNF06 – Integridade dos dados:** O sistema deve garantir a **integridade e consistência das informações** cadastradas, evitando registros incompletos, duplicados ou inconsistentes.
-**RNF07 – Manutenibilidade:** O sistema deve possuir uma **estrutura organizada e modular**, facilitando a realização de correções, atualizações e futuras implementações.
+- CNPJ
+- Senha
+- Email
+
+### RF03 – Visualizar veículos
+A página inicial deve exibir ao usuário a **lista de veículos** na frota da empresa e seus respectivos status.
+
+### RF04 – Registrar revisões
+O sistema deve permitir que os usuários registrem **revisões dos veículos**.
+
+- Data da revisão
+- Quilometragem
+- Tipo de revisão
+- Descrição
+- Peças substituídas
+- Valor
+- Responsável
+
+### RF05 – Consultar histórico de revisões
+O sistema deve permitir que os usuários consultem o **histórico de revisões de cada veículo**.
+
+- Data
+- Tipo de revisão
+- Quilometragem
+- Descrição
+- Responsável
+
+### RF06 – Atualizar dados dos veículos
+O sistema deve permitir que os usuários autorizados **alterem os dados cadastrados dos veículos**.
+
+- Modelo
+- Placa
+- Quilometragem
+- Status
+- Danos
+
+### RF07 – Registrar danos
+O sistema deve permitir que os usuários registrem **danos identificados nos veículos**.
+
+- Descrição do dano
+- Data
+- Gravidade
+- Localização do dano
+- Observações
+
+### RF08 – Atualizar status dos veículos
+O sistema deve permitir que os usuários **alterem o status dos veículos**.
+
+- Disponível
+- Em revisão
+- Danificado
+- Em manutenção
+- Indisponível
+
+### RF11 – Pesquisar veículos
+O sistema deve permitir que os usuários **pesquisem veículos cadastrados**.
+
+- Placa
+- Marca
+- Modelo
+- Status
+- Chassi
+
+### RF12 – Filtrar veículos por status
+O sistema deve permitir que os usuários **filtrem a lista de veículos** de acordo com seu status.
+
+- Disponível
+- Em revisão
+- Danificado
+- Em manutenção
+- Indisponível
+
+## Requisitos Não Funcionais
+
+### RNF01 – Desempenho
+O sistema deve apresentar as páginas e informações solicitadas pelos usuários em um **tempo adequado**, evitando atrasos durante consultas, cadastros e atualizações.
+
+### RNF02 – Disponibilidade
+O sistema deve permanecer **disponível durante o horário de funcionamento da empresa**, permitindo o acesso às funcionalidades de gerenciamento da frota.
+
+### RNF03 – Usabilidade
+O sistema deve possuir uma **interface simples e intuitiva**, permitindo que os usuários realizem cadastros, consultas e registros de revisões sem dificuldades.
+
+### RNF04 – Compatibilidade
+O sistema deve ser compatível com os **principais navegadores web**.
+
+- Google Chrome
+- Mozilla Firefox
+- Microsoft Edge
+
+### RNF05 – Responsividade
+O sistema deve possuir uma **interface responsiva**, adaptando-se adequadamente a diferentes tamanhos de tela.
+
+- Computadores
+- Tablets
+- Celulares
+
+### RNF06 – Integridade dos dados
+O sistema deve garantir a **integridade e consistência das informações** cadastradas, evitando:
+
+- Registros incompletos
+- Registros duplicados
+- Informações inconsistentes
+
+### RNF07 – Manutenibilidade
+O sistema deve possuir uma **estrutura organizada e modular**, facilitando a realização de:
+
+- Correções
+- Atualizações
+- Futuras implementaçõess.
 
 <div align= "end">
 
