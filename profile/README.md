@@ -257,9 +257,8 @@ Projeto viável considerando seu uso por empresas menores, visto que as mais con
 
 ## – Diagrama de Casos de Uso
 
-![CasosDeUso-Black](images/diagrama-casos-de-uso-controlaseu-black.drawio.png#gh-light-mode-only)
+![CasosDeUso-Black](images/casos_de_uso.png)
 
-![CasosDeUso-White](images/diagrama-casos-de-uso-controlaseu-white.drawio.png#gh-dark-mode-only)
 
 ## – Diagrama de Classes
 
