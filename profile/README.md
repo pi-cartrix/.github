@@ -252,6 +252,12 @@ Projeto viável considerando seu uso por empresas menores, visto que as mais con
 
 ![Diagrama-de-classes](images/Diagrama_classes.png)
 
+<div align= "end">
+
+[Voltar ao sumário ↑](#sumário)
+
+</div>
+
 # **Design do Projeto.**
 
 ## – Paleta de cores:
