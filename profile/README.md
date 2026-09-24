@@ -1,6 +1,6 @@
 <div align= "center">
 
-# Projeto **"Controla$EU"**
+# Projeto **"Cartrix"**
 
 ![Logo LightMode](images/logo-git-white.png#gh-light-mode-only) ![Logo DarkMode](images/logo-git-dark.png#gh-dark-mode-only)
 
