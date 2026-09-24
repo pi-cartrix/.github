@@ -265,10 +265,6 @@ Projeto viável considerando seu uso por empresas menores, visto que as mais con
 |           | Nome                | Código HEX | Preview                                                                                                                                                                          |
 | --------: | ------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Cor 1** | Azul escuro         | #5e78ff    | ![Static Badge]() |
-| **Cor 2** | Azul claro          | #1bb2f4    | ![Static Badge]() |
-| **Cor 3** | Azul de confirmação | #0b5ed7    | ![Static Badge]() |
-| **Cor 4** | Cinza claro         | #d4d4d4    | ![Static Badge]() |
-| **Cor 5** | Cinza escuro        | #212121    | ![Static Badge]() |
 
 ## – Tipografia:
 
