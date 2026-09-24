@@ -2,7 +2,8 @@
 
 # Projeto **"Cartrix"**
 
-
+![Logo-Dark-Mode}()
+![Logo-Light-Mode}()
 
 **Autores:**
 
@@ -53,7 +54,7 @@
 
 <div align= "end">
 
-[Voltar ao sumário.](#sumário)
+[Voltar ao sumário ↑](#sumário)
 
 </div>
 
@@ -148,6 +149,12 @@ O sistema deve permitir que os usuários **filtrem a lista de veículos** de aco
 - Em manutenção
 - Indisponível
 
+<div align= "end">
+
+[Voltar ao sumário ↑](#sumário)
+
+</div>
+
 ## Requisitos Nao Funcionais
 
 ### RNF01 – Desempenho
@@ -189,7 +196,7 @@ O sistema deve possuir uma **estrutura organizada e modular**, facilitando a rea
 
 <div align= "end">
 
-[Voltar ao sumário.](#sumário)
+[Voltar ao sumário ↑](#sumário)
 
 </div>
 
@@ -215,7 +222,7 @@ Projeto viável considerando seu uso por empresas menores, visto que as mais con
 
 <div align= "end">
 
-[Voltar ao sumário.](#sumário)
+[Voltar ao sumário ↑](#sumário)
 
 </div>
 
@@ -229,7 +236,7 @@ Projeto viável considerando seu uso por empresas menores, visto que as mais con
 
 <div align= "end">
 
-[Voltar ao sumário.](#sumário)
+[Voltar ao sumário ↑](#sumário)
 
 </div>
 
@@ -268,7 +275,7 @@ Protótipos disponíveis no [_Figma_](https://www.figma.com).
 
 <div align= "end">
 
-[Voltar ao sumário.](#sumário)
+[Voltar ao sumário ↑](#sumário)
 
 </div>
 
@@ -284,6 +291,6 @@ Protótipos disponíveis no [_Figma_](https://www.figma.com).
 
 <div align= "end">
 
-[Voltar ao sumário.](#sumário)
+[Voltar ao sumário ↑](#sumário)
 
 </div>
