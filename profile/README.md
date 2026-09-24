@@ -2,7 +2,7 @@
 
 # Projeto **"Cartrix"**
 
-![Logo LightMode](images/logo-git-white.png#gh-light-mode-only) ![Logo DarkMode](images/logo-git-dark.png#gh-dark-mode-only)
+
 
 **Autores:**
 
@@ -41,31 +41,13 @@
 
 # **Objetivo**
 
-O projeto _”Controla$EU”_ é focado em auxiliar pessoas jurídicas a gerenciarem e monitorarem as condições de seus veículos, focando em negócios como locadoras, concessionárias e estacionamentos, permitindo a visualização do status do veículo e dados como marca, modelo, quilometragem, placa, chassi, danos e observações, além do registro de oficinas e definição de qual vai fazer cada revisão
+
 
 # **Metodologias**
 
-Para esse projeto serão usadas as linguagens de programação HTML 5, CSS 3, JavaScript, frameworks como Bootstrap, prototipagem de alta fidelidade no Figma e — para integração com banco de dados — será usada a linguagem PHP. Os bancos de dados usados serão MariaDB, mongodb e MySQL. Também será usada a tecnologia Git e GitHub a fim de versionamento do projeto.
+
 
 <img height="30px" alt="iconhtml" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-
-<img height="30px" alt="iconcss" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-
-<img height="30px" alt="iconjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-
-<img height="30px" alt="iconbootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-
-<img height="30px" alt="iconfigma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
-
-<img height="30px" alt="iconiconphp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-
-<img height="30px" alt="iconmariadb" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg"/>
-
-<img height="30px" alt="iconmysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-
-<img height="30px" alt="icongit" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-
-<img height="30px" alt="icongithub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 
 </div>
 
@@ -243,7 +225,7 @@ Projeto viável considerando seu uso por empresas menores, visto que as mais con
 
 ## – Modelo de negócio Canvas
 
-![ModeloCanvas](images/modelo-canva-atualizado.png)
+![ModeloCanvas](images/)
 
 <div align= "end">
 
@@ -257,14 +239,11 @@ Projeto viável considerando seu uso por empresas menores, visto que as mais con
 
 ## – Diagrama de Casos de Uso
 
-![CasosDeUso-Black](images/casos_de_uso.png)
-
+![Casos-de-uso](images/casos_de_uso.png)
 
 ## – Diagrama de Classes
 
-![Classes-Black](images/diagrama-de-classes-controlaseu-black.drawio.png#gh-light-mode-only)
-
-![Classes-White](images/diagrama-de-classes-controlaseu-white.drawio.png#gh-dark-mode-only)
+![Diagrama-de-classes](images/Diagrama_classes.png)
 
 # **Design do Projeto.**
 
@@ -272,11 +251,11 @@ Projeto viável considerando seu uso por empresas menores, visto que as mais con
 
 |           | Nome                | Código HEX | Preview                                                                                                                                                                          |
 | --------: | ------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Cor 1** | Azul escuro         | #5e78ff    | ![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%235e78ff) |
-| **Cor 2** | Azul claro          | #1bb2f4    | ![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%231bb2f4) |
-| **Cor 3** | Azul de confirmação | #0b5ed7    | ![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%230b5ed7) |
-| **Cor 4** | Cinza claro         | #d4d4d4    | ![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%23d4d4d4) |
-| **Cor 5** | Cinza escuro        | #212121    | ![Static Badge](https://img.shields.io/badge/%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20-%23212121) |
+| **Cor 1** | Azul escuro         | #5e78ff    | ![Static Badge]() |
+| **Cor 2** | Azul claro          | #1bb2f4    | ![Static Badge]() |
+| **Cor 3** | Azul de confirmação | #0b5ed7    | ![Static Badge]() |
+| **Cor 4** | Cinza claro         | #d4d4d4    | ![Static Badge]() |
+| **Cor 5** | Cinza escuro        | #212121    | ![Static Badge]() |
 
 ## – Tipografia:
 
@@ -284,8 +263,8 @@ Projeto viável considerando seu uso por empresas menores, visto que as mais con
 
 Protótipos disponíveis no [_Figma_](https://www.figma.com).
 
-- Desktop: [Link](https://www.figma.com/design/7gpuIwBSHH2NBlRuLM9blK/Prot%C3%B3tipo-Mobile?node-id=0-1&t=UBlje9CzUSJT9k8m-1)
-- Mobile: [Link](https://www.figma.com/design/YcwMepwiNQC3N8HrhoIdb9/Prot%C3%B3tipo-Desktop?node-id=0-1&t=pLrhmMBV2Ge4SJ4k-1)
+- Desktop: [Link]()
+- Mobile: [Link]()
 
 <div align= "end">
 
