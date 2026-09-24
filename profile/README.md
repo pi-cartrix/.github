@@ -148,7 +148,7 @@ O sistema deve permitir que os usuários **filtrem a lista de veículos** de aco
 - Em manutenção
 - Indisponível
 
-## Requisitos Não Funcionais
+## Requisitos Nao Funcionais
 
 ### RNF01 – Desempenho
 O sistema deve apresentar as páginas e informações solicitadas pelos usuários em um **tempo adequado**, evitando atrasos durante consultas, cadastros e atualizações.
